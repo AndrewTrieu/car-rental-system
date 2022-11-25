@@ -1,0 +1,22 @@
+XJY-604,Hyundai Getz,O,0,45.0,A
+AJB-123,BMW mini,P,200,65.0,A
+WYN-482,Ford Fiesta,O,0,40.0,A
+BKV-943,Ford Ikon,P,150,60.0,A
+JMB-535,Ford Flex,O,0,50.0,A
+MKJ-634,Ford Mustang Mach-E,P,180,80.0,A
+GTY-734,Dacia Sandero,O,0,20.0,A
+BTR-921,Dacia Duster,O,0,25.0,A
+ADH-402,VW Golf,O,0,50.0,A
+KJL-356,VW Tiguan,P,200,80.0,A
+TUI-263,Skoda Octavia,P,150,60.0,A
+FUW-161,Mercedes-Benz C-Class,P,200,80.0,A
+MDF-347,Renault Clio,O,0,30.0,A
+XIR-209,Renault Captur,O,0,40.0,A
+QPC-417,Citroen C3,O,0,30.0,A
+PEI-807,Citroen C5,O,0,40.0,A
+KJE-215,Hyundai Elantra,O,0,30.0,A
+LME-136,Hyundai Sonata,O,0,40.0,A
+NDW-325,DS 3 Crossback,O,0,45.0,A
+EID-210,Smart Forfour,O,0,35.0,A
+JHU-823,Skoda Octavia,O,0,60.0,A
+HYU-238,Skoda Enyaq iV,P,50.0,100.0,A
